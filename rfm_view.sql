@@ -1,4 +1,4 @@
-create or replace view database_two.ds.rfm_view_snowflake
+create or replace view database_two.schema_two.rfm_view_snowflake
 as
 //create a calendar date
 with cals as
